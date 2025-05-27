@@ -1,0 +1,27 @@
+{
+  "name": "PingOrder",
+  "short_name": "PingOrder",
+  "description": "AI That Feels Human.",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#ffffff",  // Latar putih
+  "theme_color": "#40e0d0",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDi_U4Kh0Fb9DTeWJvV6Mb4UTxCZ-cSmcnSpqqwBiblCvJbpYTznitgS3iFd9NMmdJoj2-BmbjwqqV7ktxOoXGLdHUBoGS3m-9IUJKG06mCKHLwgNdsIttO-J4HOqJmpTCR5Tlg-HE8xuESJH3zqWuDHx_tGYFbfKs9dAtu7BowlYN7WrGbpz0fdmxgLq/s1600/black%20white%20Thunder%20logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"  // Logo bisa dijadikan splash screen
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jUMR5CscU9IDk4bA8C27o5YWsOpja4wCfXZakVeUZV5_PeGLymKiHlakTZre7GtK1J3hhoGyUWRLu0h9YN8SrJ8S3QPkCRBFbOj9uq_0m9bi0MwrVS80smVewi5BlSOp_fM5Zqtskhe3P1DAucNh0yQNZcuB_o6Cops0ottCulvmyrNO2OxjBhLidJbW/s1600/black%20white%20Thunder%20logo%20%281%29.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_screen": {
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jUMR5CscU9IDk4bA8C27o5YWsOpja4wCfXZakVeUZV5_PeGLymKiHlakTZre7GtK1J3hhoGyUWRLu0h9YN8SrJ8S3QPkCRBFbOj9uq_0m9bi0MwrVS80smVewi5BlSOp_fM5Zqtskhe3P1DAucNh0yQNZcuB_o6Cops0ottCulvmyrNO2OxjBhLidJbW/s1600/black%20white%20Thunder%20logo%20%281%29.png",
+    "size": "512x512",
+    "background_color": "#ffffff"  // Warna splash screen
+  }
+}
